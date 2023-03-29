@@ -3,6 +3,7 @@
 Repository to remember my project ideas
 
 ## Finished - 0
+- [manga-dl](manga-dl.md) [🔗](https://github.com/LSDeia/manga-dl) ➜ Shell script that allows downloading scans from mangasee123.com
 
 ## Started - 0
 
