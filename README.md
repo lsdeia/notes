@@ -9,5 +9,5 @@ Repository to remember my project ideas
 ## Not started yet
 
 - [codo](codo.md) ➜ Find TODO tags in your code easily
-- [unnamed](unnamed_1.md) ➜ Libraby to resize and upscale images
-- [unnamed](unnamed_2.md) ➜ Piano-tiles game with my own tweaks
+- [unnamed_1](unnamed_1.md) ➜ Libraby to resize and upscale images
+- [unnamed_2](unnamed_2.md) ➜ Piano-tiles game with my own tweaks
